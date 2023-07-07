@@ -1,0 +1,4 @@
+-I like coding.
+-I can write some Python code.
+-I'm Chinese.
+-I'm a student。
